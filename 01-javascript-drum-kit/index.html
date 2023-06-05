@@ -7,8 +7,6 @@
   <link rel="icon" href="https://fav.farm/🔥" />
 </head>
 <body>
-
-
   <div class="keys">
     <div data-key="65" class="key">
       <kbd>A</kbd>
@@ -58,10 +56,24 @@
   <audio data-key="75" src="sounds/tom.wav"></audio>
   <audio data-key="76" src="sounds/tink.wav"></audio>
 
-<script>
+  <script>
+    function playSound (evt) {
+      const audio = document.querySelector(`audio[data-key="${evt.keyCode}"]`);
+      const button = document.querySelector(`.key[data-key="${evt.keyCode}"]`);
+      if (!audio) return;
+      button.classList.add('playing');
+      audio.currentTime = 0;
+      audio.play();
+    }
 
-</script>
+    function removeTransition (evt) {
+      if (evt.propertyName !== 'transform') return;
+      this.classList.remove('playing');
+    }
 
-
+    const keys = document.querySelectorAll('.key');
+    keys.forEach(key => key.addEventListener('transitionend', removeTransition));
+    window.addEventListener('keydown', playSound);
+  </script>
 </body>
 </html>
