@@ -15,3 +15,4 @@ Course created by Wes Bos
 7. Array Cardio Day 2 | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/07-array-cardio-day-2)
 8. Fun with HTML5 Canvas | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/08-fun-with-html5-canvas) | [Live](https://incredible-show.surge.sh)
 9. Dev Tools Domination | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/09-dev-tools-domination)
+10. Hold Shift and Check Checkboxes | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/10-hold-shift-and-check-checkboxes) | [Live](https://spectacular-quiver.surge.sh)
