@@ -12,3 +12,4 @@ Course created by Wes Bos
 4. Array Cardio Day 1 | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/04-array-cardio-day-1)
 5. Flex Panel Gallery | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/05-flex-panel-gallery) | [Live](https://smooth-button.surge.sh)
 6. AJAX Type Ahead | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/06-ajax-type-ahead) | [Live](https://standing-stretch.surge.sh)
+7. Array Cardio Day 2 | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/07-array-cardio-day-2)
