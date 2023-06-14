@@ -21,3 +21,4 @@ Course created by Wes Bos
 13. Slide in on Scroll | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/13-slide-in-on-scroll) | [Live](https://eatable-parent.surge.sh)
 14. JavaScript References VS Copying | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/14-javascript-references-vs-copying)
 15. LocalStorage | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/15-localstorage) | [Live](https://witty-scene.surge.sh)
+16. Mouse Move Shadow | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/16-mouse-move-shadow) | [Live](https://clean-flight.surge.sh)
