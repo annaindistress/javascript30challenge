@@ -23,3 +23,4 @@ Course created by Wes Bos
 15. LocalStorage | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/15-localstorage) | [Live](https://witty-scene.surge.sh)
 16. Mouse Move Shadow | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/16-mouse-move-shadow) | [Live](https://clean-flight.surge.sh)
 17. Sort Without Articles | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/17-sort-without-articles) | [Live](https://hapless-coat.surge.sh)
+18. Adding Up Times with Reduce | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/18-adding-up-times-with-reduce)
