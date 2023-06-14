@@ -17,3 +17,4 @@ Course created by Wes Bos
 9. Dev Tools Domination | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/09-dev-tools-domination)
 10. Hold Shift and Check Checkboxes | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/10-hold-shift-and-check-checkboxes) | [Live](https://spectacular-quiver.surge.sh)
 11. Custom Video Player | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/11-custom-video-player) | [Live](https://habitual-airport.surge.sh)
+12. Key Sequence Detection | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/12-key-sequence-detection) | [Live](https://caring-rake.surge.sh)
