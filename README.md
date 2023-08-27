@@ -26,3 +26,4 @@ Course created by Wes Bos
 18. Adding Up Times with Reduce | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/18-adding-up-times-with-reduce)
 19. Webcam Fun | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/19-webcam-fun) | [Live](https://far-beggar.surge.sh)
 20. Speech Detection | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/20-speech-detection) | [Live](vigorous-smell.surge.sh)
+21. Geolocation based Speedometer and Compass | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/21-geolocation)
