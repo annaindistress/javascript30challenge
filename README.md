@@ -32,3 +32,4 @@ Course created by Wes Bos
 24. Sticky Nav | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/23-speech-synthesis) | [Live](upbeat-beginner.surge.sh)
 25. Event Capture, Propagation, Bubbling and Once | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/25-event-capture-propagation-bubbling-once)
 26. Stripe Follow Along Nav | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/26-stripe-follow-along-nav) | [Live](pretty-board.surge.sh)
+27. Click and Drag | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/27-click-and-drag) | [Live](nostalgic-sister.surge.sh)
