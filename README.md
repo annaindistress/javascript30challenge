@@ -29,3 +29,4 @@ Course created by Wes Bos
 21. Geolocation based Speedometer and Compass | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/21-geolocation)
 22. Follow Along Link Highlighter | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/22-follow-along-link-highlighter) | [Live](tender-waste.surge.sh)
 23. Speech Synthesis | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/23-speech-synthesis) | [Live](brasive-stitch.surge.sh)
+24. Sticky Nav | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/23-speech-synthesis) | [Live](upbeat-beginner.surge.sh)
