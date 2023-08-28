@@ -34,3 +34,4 @@ Course created by Wes Bos
 26. Stripe Follow Along Nav | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/26-stripe-follow-along-nav) | [Live](pretty-board.surge.sh)
 27. Click and Drag | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/27-click-and-drag) | [Live](nostalgic-sister.surge.sh)
 28. Video Speed Controller | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/28-video-speed-controller) | [Live](flagrant-wind.surge.sh)
+29. Countdown Timer | [Solution](https://github.com/annaindistress/javascript30challenge/tree/main/29-countdown-timer) | [Live](spicy-fifth.surge.sh)
